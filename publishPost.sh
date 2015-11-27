@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x deploy.sh
+chmod +x publishPost.sh
 
 cd Ammar-Says
 jekyll build --destination ../ammaralishah.github.io
