@@ -2,8 +2,7 @@
 
 > Just small scripts I've put together to automate some tasks and save time
 
-## Push
-./Push.sh
+## [Push](./Push.sh)
 
 Nothing that'll blow your mind - It just pushes changes in a repo to GitHub so I don't have to!
 **What it does:**
@@ -11,8 +10,7 @@ Nothing that'll blow your mind - It just pushes changes in a repo to GitHub so I
  - Commits the changes with a randomly generated alphanumeric message
  - Pushed to the master branch
 
-## Publish
-./Publish.sh
+## [Publish](./Publish.sh)
 
 A publish button script to automate the tedious task of posting something to my [jekyll blog](http://ammaralishah.github.io/).
 **What it does:**
