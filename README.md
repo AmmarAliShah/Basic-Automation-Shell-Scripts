@@ -1,4 +1,4 @@
-# WinHackScripts
+# Windows 10 Hack Scripts
 
 > Just some scripts I've put together to automate some tasks and save time
 
@@ -20,4 +20,4 @@ A publish button script to automate the tedious task of posting something to my 
  - pushes changes to master
  - builds to my blog dir
  - changes dir to my blog
- - pushes blog to master 
+ - pushes blog to master
