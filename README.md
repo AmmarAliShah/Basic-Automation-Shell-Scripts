@@ -13,7 +13,7 @@ Nothing that'll blow your mind - It just pushes changes in a repo to GitHub so I
 
 ## [Publish.sh](./Publish.sh)
 
-A publish button script to automate the tedious task of posting something to my [jekyll blog](http://ammaralishah.github.io/).
+A publish button script to automate the tedious task of posting something to my [jekyll blog](http://ammaralishah.github.io/). Think of it as an advance version of [Push.sh](./Push.sh).
 
 **What it does:**
  - goes in to my jekyll dir
