@@ -1,6 +1,6 @@
 # Windows 10 Hack Scripts
 
-> Just some scripts I've put together to automate some tasks and save time
+> Just small scripts I've put together to automate some tasks and save time
 
 ## Push
 ./Push.sh
