@@ -4,6 +4,9 @@
 
 ## [Push.sh](./Push.sh)
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I now push to GitHub with just the enter key! <a href="https://twitter.com/hashtag/BashPower?src=hash">#BashPower</a> <a href="https://twitter.com/hashtag/CodeGeek?src=hash">#CodeGeek</a></p>&mdash; Ammar Ali Shah (@AmmarAliShahK) <a href="https://twitter.com/AmmarAliShahK/status/670808216004096000">November 29, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Nothing that'll blow your mind - It just pushes changes in a repo to GitHub so I don't have to!
 
 **What it does:**
